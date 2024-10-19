@@ -6,3 +6,5 @@
 
 *Ccылка на макет в Figma:*
 [Blanchard](https://www.figma.com/design/tj7JfWXXpd5poySBgaW1nL/Blanchard-(new)?node-id=0-1&node-type=canvas)
+
+<img alt='website Blanchard' src='https://github.com/NataliaStadnik/images/blob/main/blanchard.jpg'/>
